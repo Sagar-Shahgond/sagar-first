@@ -1,4 +1,4 @@
 # sagar-first
 This is my first Git Repository
 <br>
-Author - Sagar (sagar-first)
+Author - Sagar (sagar shah)
